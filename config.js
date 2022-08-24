@@ -3,21 +3,21 @@ let d = new Date(new Date + 3600000)
 let locale = 'id'
 let chalk = require('chalk')
 global.owner = [
-  ['6289509960601'],
-  ['6289509960601'],
-  ['6289509960601', 'Deffri', true]  
+  ['6282136373819'],
+  ['6285640429082'],
+  ['6282136373819', 'Deffri', true]  
   
 ] 
-global.noowner = '6289509960601'
-global.ownername = [['𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬']]
-global.namabot = [['𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛']]
-global.wm2 = [['Hoh']]
+global.noowner = '6282136373819'
+global.ownername = [['VinzzX Owner']]
+global.namabot = [['Chika BOT']]
+global.wm2 = [['Chika MD']]
 global.instalu = [['https://instagram.com/b4c00t.dtz']]
 global.ytlu = [['https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA']]
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.log =  'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=outline-shadow-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.mods = []
-global.prems = ['6289509960601'] 
+global.prems = ['6282136373819'] 
 
 //+$&#-$:$!#(#;#!$(_!#+$;_)_!&
 global.fotonya1 = 'https://telegra.ph/file/3ee98976cb4f784eab41f.jpg' //ganti jadi foto bot mu
@@ -59,8 +59,8 @@ if (stickerpack.spackname == '') {
   var sticker_name = 'Deffri Gans'
   var sticker_author = 'By GansBOTz'
 } else {
-  var sticker_name = '𝐃𝐞𝐟𝐟𝐫𝐢 𝐆𝐚𝐧𝐬'
-  var sticker_author = 'by 𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+  var sticker_name = 'VinzzXOwner'
+  var sticker_author = 'by Chika Chan'
 }
 
 const file_exif = "lib/exif.json"
@@ -74,7 +74,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = 'Created by GansBOTz'
+global.wm = 'Created by Chika Chan'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
